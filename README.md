@@ -1,6 +1,10 @@
 # Deluxe
-# Description
-# 
+# Description:-
+# Main Idea of this project to save time and gave opportunity to choose their own design for their lovely home decoration and maintain peaceful life in their happy life and easier also.
+# There are total three languages use in this Project :-
+# CSS
+# JS
+# HTML
 
 # There are total five section in this project:-
 # Home Page
