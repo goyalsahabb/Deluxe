@@ -18,3 +18,8 @@
 ![Gallery](https://user-images.githubusercontent.com/113774655/190856098-3ff6c569-1090-48bc-9274-7a86d0d2900f.png)
 # Contact Page
 ![Contact](https://user-images.githubusercontent.com/113774655/190856117-bc95735c-48cf-4d4f-9bd0-6c00e1c2c1dc.png)
+# Deployment process with thew help of Azure Static Web app:-
+<img width="1114" alt="Deployment 1" src="https://user-images.githubusercontent.com/113774655/200405265-6e01c201-3e16-46fe-b6ff-76fe57536be9.png">
+<img width="1120" alt="Deployment 2" src="https://user-images.githubusercontent.com/113774655/200405340-2690f21a-461b-447d-ae05-8dfa9420c942.png">
+<img width="1119" alt="Deployment 3" src="https://user-images.githubusercontent.com/113774655/200405361-67f89b6e-3934-4135-ae05-d35f5ac85d49.png">
+
